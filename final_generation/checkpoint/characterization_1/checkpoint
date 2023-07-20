@@ -1,0 +1,2 @@
+model_checkpoint_path: "intensity_19_full"
+all_model_checkpoint_paths: "intensity_19_full"

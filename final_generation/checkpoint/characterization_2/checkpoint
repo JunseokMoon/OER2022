@@ -1,0 +1,2 @@
+model_checkpoint_path: "position_19_full"
+all_model_checkpoint_paths: "position_19_full"
