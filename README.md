@@ -1,7 +1,13 @@
 # Active learning guides discovery of a champion four-metal perovskite oxide for oxygen evolution electrocatalysis
 
 ## Publication
-(to be updated)
+Article Title : Active learning guides discovery of a champion four-metal perovskite oxide for oxygen evolution electrocatalysis
+
+Journal : Nature Materials
+
+Authors: Junseok Moon, Wiktor Beker, Marta Siek, Jiheon Kim, Hyeon Seok Lee, Taeghwan Hyeon, and Bartosz A. Grzybowski
+
+DOI : 10.1038/s41563-023-01707-w
 
 ##
 
